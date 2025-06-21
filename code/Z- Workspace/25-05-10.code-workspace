@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../.."
+    },
+    {
+      "path": "../../../MA_Landing_Website-COM"
+    },
+    {
+      "path": "../../.."
+    },
+    {
+      "path": "../../../T- Hubspot"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "MA_Landing_Website-COM"
+  }
+}
