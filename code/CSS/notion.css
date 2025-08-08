@@ -13,3 +13,24 @@
   padding-left: 10px;
   margin-left: 10px; */
 }
+
+/* .notion-selectable  */
+.notion-selectable:nth-child(5n + 1) {
+  border-left: 3px solid blue;
+}
+
+.notion-selectable:nth-child(5n + 2) {
+  border-left: 3px solid green;
+}
+
+.notion-selectable:nth-child(5n + 3) {
+  border-left: 3px solid yellow;
+}
+
+.notion-selectable:nth-child(5n + 4) {
+  border-left: 3px solid orange;
+}
+
+.notion-selectable:nth-child(5n + 5) {
+  border-left: 3px solid red;
+}
