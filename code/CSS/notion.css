@@ -8,18 +8,38 @@
   border-bottom: 2px solid rgba(255, 255, 255, 1) !important;
 }
 
-.notion-selectable {
-  /* border-left: 2px solid rgba(255, 0, 0, 1);
-  padding-left: 10px;
-  margin-left: 10px; */
+/* 
+1. Adjacent sibling (exact next element)
+.notion-list-item-box-left + * {
+
+2. General sibling (any after it)
+.notion-list-item-box-left ~ * {
+
+*/
+
+.notion-list-item-box-left + *:nth-of-type(1) {
+  border-left: 2px solid aqua;
+}
+.notion-list-item-box-left + *:nth-of-type(2) {
+  border-left: 2px solid green;
+}
+.notion-list-item-box-left + *:nth-of-type(3) {
+  border-left: 2px solid yellow;
+}
+.notion-list-item-box-left + *:nth-of-type(4) {
+  border-left: 2px solid orange;
+}
+.notion-list-item-box-left + *:nth-of-type(5) {
+  border-left: 2px solid red;
 }
 
 /* .notion-selectable  */
-.notion-selectable:nth-child(5n + 1) {
+/*  
+.notion-list-item-box-left + * {
   border-left: 3px solid blue;
 }
 
-.notion-selectable:nth-child(5n + 2) {
+.notion-list-item-box-left + * {
   border-left: 3px solid green;
 }
 
@@ -34,3 +54,4 @@
 .notion-selectable:nth-child(5n + 5) {
   border-left: 3px solid red;
 }
+*/
