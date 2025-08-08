@@ -1,15 +1,23 @@
 {
   "folders": [
     {
+      "name": "ZZ- tab-icons-logos-colors",
       "path": "../.."
     },
     {
+      "name": "MA_Landing_Website-COM",
       "path": "../../../MA_Landing_Website-COM"
     },
     {
+      "name": "1-MA-US-LIVE-Landing_Website-COM",
+      "path": "../../../1-MA-US-LIVE-Landing_Website-COM"
+    },
+    {
+      "name": "Jouza Local",
       "path": "../../.."
     },
     {
+      "name": "T- Hubspot",
       "path": "../../../T- Hubspot"
     }
   ],
