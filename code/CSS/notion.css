@@ -10,7 +10,8 @@
 
 /* change every 5 */
 /* 
-25-08-09 | 02:39:08 - 
+Sent: 25-08-09 | 02:39:08 - 
+recived: 25-08-09 | 02:41:49 - 
 */
 /* 1st item */
 .notion-selectable:has(.notion-list-item-box-left):nth-of-type(5n + 1) {
