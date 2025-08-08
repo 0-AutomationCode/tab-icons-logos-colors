@@ -69,3 +69,20 @@ Website: https://htmlcolorcodes.com/
   - Github: https://github.com/furybee/chrome-tab-modifier
   - Chrome Extention: https://chromewebstore.google.com/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai
   - Extension Settings: chrome-extension://hcbgadmbdkiilgpifjgcakjehmafcjai/src/options.html
+
+
+
+////
+
+raw gihub
+25-08-09 | 01:50:04 t- 
+
+Paste:
+https://github.com/0-AutomationCode/tab-icons-logos-colors/blob/main/code/CSS/notion.css
+
+Use this URL in production
+https://rawcdn.githack.com/0-AutomationCode/tab-icons-logos-colors/923e414509c141b2e7666d2d8a4dece8da7bfcb1/code/CSS/notion.css
+
+
+Use this URL for development
+https://raw.githack.com/0-AutomationCode/tab-icons-logos-colors/main/code/CSS/notion.css
