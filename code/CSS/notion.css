@@ -29,6 +29,10 @@ recived: 25-08-09 | 02:41:49 -
 }
 
 /* 5th item */
+.notion-selectable:has(.notion-list-item-box-left):nth-of-type(5n + 4) {
+  border-left: 3px solid orange;
+}
+/* 5th item */
 .notion-selectable:has(.notion-list-item-box-left):nth-of-type(5n) {
   border-left: 3px solid red;
 }
